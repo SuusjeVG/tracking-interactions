@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Handtracking mediapipe test</title>    
+    <!-- <script type="importmap">
+        {
+          "imports": {
+            "@mediapipe/tasks-vision/vision_bundle.mjs": "./node_modules/@mediapipe/tasks-vision/vision_bundle.mjs"
+          }
+        }
+    </script> -->
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+    <script type="module" src="js/handtracking.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="container">
+      <h1> Canvas: </h1>
+      <h1> Webcam: </h1>
+      <canvas id="output_canvas" width="1280px" height="720px"></canvas>
+      <video id="webcam"playsinline autoplay></video>
+    </div>
+    <button id="webcamButton"> Enable webcam </button>
+    
+  </body>
+</html>
+
