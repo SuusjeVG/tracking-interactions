@@ -12,12 +12,12 @@ Elke technologie wordt gebruikt voor specifieke soorten interacties en activitei
 ## Link naar file met video materiaal
 
 Handtracking:
-- [Index finger drawing](./index-finger-drawing/hands) [Video](https://drive.google.com/file/d/1sEuJmQ52jywmaKpBnzTl9YFXKb87TO5N/view)
-- [Making figures](./making-figures/hands) [Video](https://drive.google.com/file/d/1HF8uNrGaexM6t48bJPXGmbKWmYhdfdvu/view)
-- [Pinching objects](./pinching-objects) [Video](https://drive.google.com/file/d/1pWAHqnbIUMm9z25UADXkogsPHlz-LxH3/view)
+- [Index finger drawing](./index-finger-drawing/hands) | [Video](https://drive.google.com/file/d/1sEuJmQ52jywmaKpBnzTl9YFXKb87TO5N/view)
+- [Making figures](./making-figures/hands) | [Video](https://drive.google.com/file/d/1HF8uNrGaexM6t48bJPXGmbKWmYhdfdvu/view)
+- [Pinching objects](./pinching-objects) | [Video](https://drive.google.com/file/d/1pWAHqnbIUMm9z25UADXkogsPHlz-LxH3/view)
 
 PoseTracking:
-- [Up down left right](./up-down-left-right/pose) [Video](https://drive.google.com/file/d/1doR2vnEVbXgLzG5xRDnE7nbr9rxdUcoO/view)
+- [Up down left right](./up-down-left-right/pose) | [Video](https://drive.google.com/file/d/1doR2vnEVbXgLzG5xRDnE7nbr9rxdUcoO/view)
 
 ## bron
 
